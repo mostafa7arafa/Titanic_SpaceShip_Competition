@@ -24,6 +24,9 @@ To reproduce the analysis and submission:
 - Model evaluation metrics such as accuracy are provided.
 - The submission file is generated following the Kaggle competition requirements.
 
+## Performance
+- Model Accuracy: The model achieved an accuracy of 79% on the test dataset.
+
 ## Author
 Mostafa Arafa
 
